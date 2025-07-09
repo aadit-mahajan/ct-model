@@ -1,0 +1,155 @@
+Cell name,Cell name variations,Cell type,Disease ,Organism,Tissue,Morphology,ATCC,Cellosaurus,Notes
+22Rv1,CWR-22rv1; CWR22R,Epithelial cell,Carcinoma,Homo sapiens (human),Prostate,Epithelial,crl-2505,CVCL_1045,
+3215 LS,,Fibroblast,,Homo sapiens (human),,,,,"As stated in the original publication (10.1021/acsmedchemlett.5b00258), courtesy of E. Kopantsev (M.M. Shemyakin and Yu.A. Ovchinnikov Institute of Bioorganic Chemistry RAS)."
+4T1,4T1-A; 4T1.0; 4T1/WT,,Breast cancer,Mus musculus (mouse),Breast; Mammary gland,Epithelial,crl-2539,CVCL_0125,
+4T1-Luc,,,Breast cancer,Mus musculus (mouse),Breast; Mammary gland,Epithelial,,,"Derived from 4T1 mammary carcinoma, engineered to express luciferase for bioluminescent imaging."
+67NR,,,Breast cancer,Mus musculus (mouse),Breast; Mammary gland,Epithelial-like,,CVCL_9723,
+786-0,786-O; RCC 7860; 7860; 786-0WT,Renal cell,Adenocarcinoma,Homo sapiens (human),Kidney,Epithelial,crl-1932,CVCL_1051,
+A2780,2780; A2780S; A2780par,,Endometrioid adenocarcinoma,Homo sapiens (human),Ovary,Epithelial-like,,CVCL_0134,
+A2780-CR,,,Endometrioid adenocarcinoma,Homo sapiens (human),Ovary,Epithelial-like,,,"Derived from the A2780 ovarian cancer cell line following resistance development to cisplatin treatment. As stated in the original publication: A2780 Parental, A2780 cisplatin-resistant (A2780-CR) cell lines. Provided by Dr. Tom Hamilton, Fox Chase Cancer Center, Philadelphia, PA. (10.1006/gyno.1996.0026)."
+A2780-DR,,,Endometrioid adenocarcinoma,Homo sapiens (human),Ovary,Epithelial-like,,CVCL_EG64,"Derived from the A2780 ovarian cancer cell line following resistance development to doxorubicin treatment. As stated in the original publication: A2780 Parental, A2780 doxorubicin-resistant (A2780-DR). Provided by Dr. Tom Hamilton, Fox Chase Cancer Center, Philadelphia, PA.  (10.1006/gyno.1996.0026)"
+A375,A 375; A-375; A375-MEL; A375-mel; A375mel,,Malignant melanoma,Homo sapiens (human),Skin,Epithelial,crl-1619,CVCL_0132,
+A431,A-431; A431/P,,Epidermoid carcinoma,Homo sapiens (human),Skin; Epidermis,Epithelial,crl-1555,CVCL_0037,
+A498,A-498,Epithelial cell,Carcinoma,Homo sapiens (human),Kidney,Epithelial,htb-44,CVCL_1056,
+A549,A 549; NCI-A549; hA549; A549/ATCC,Epithelial cell,Carcinoma,Homo sapiens (human),Lung,Epithelial,crm-ccl-185,CVCL_0023,
+ACHN,,Renal cell,Adenocarcinoma,Homo sapiens (human),Kidney,Epithelial,crl-1611,CVCL_1067,
+AGS,,,Gastric adenocarcinoma,Homo sapiens (human),Stomach,Epithelial,crl-1739,CVCL_0139,
+B-13,AR42J-B13; AR42J-B-13; B13,,,Rattus norvegicus (rat),Pancreas,Hepatocyte-like,,CVCL_0E02,AR42J-B13 (B13) is a sub-clone of the parent line AR42J (10.1210/endo.137.9.8756573; 10.1016/j.tox.2017.05.014).
+B-13/H,,,,Rattus norvegicus (rat),Pancreas,Hepatocyte-like,,,B-13/H cells are derived from the В-13 cell line and express many adult hepatocyte genes at adult hepatocyte levels.
+B16F10,B16/F10; B16 F10; B16-F10; B16 melanoma F10,,Melanoma,Mus musculus (mouse),Skin,Mixture of spindle-shaped and epithelial-like cells,crl-6475,CVCL_0159,
+BALB/3T3 clone A31,,Fibroblast,,Mus musculus (mouse),Embryo,Fibroblast,ccl-163,CVCL_0184,
+BGC-823,BGC823,,Cervical adenocarcinoma,Homo sapiens (human),Uterus; Cervix,Epithelial-like,,CVCL_3360,Problematic cell line; contaminated; shown to be a HeLa derivative. Originally thought to be derived from a primary gastric adenocarcinoma. 
+BGM,Buffalo Green Monkey cells; BGMK; Buffalo Green Monkey Kidney cells,,,Cercopithecus aethiops (green monkey),Kidney,Epithelial,,CVCL_4125,"BGMK cells are kidney cells from African green monkey, since there is no species named Buffalo green monkey. Spontaneously immortalized cell line. "
+BT-20,BT 20; BT20,Epithelial cell,Ductal carcinoma,Homo sapiens (human),Breast; Mammary gland,Epithelial,htb-19,CVCL_0178,
+BT-549,BT.549; BT549,Epithelial cell,Ductal carcinoma,Homo sapiens (human),Breast; Mammary gland,Epithelial,htb-122,CVCL_1092,
+C6,C-6; C 6; RGC-6; RGC6; RGc6,Glial cell,Glioma,Rattus norvegicus (rat),Brain,Fibroblast,ccl-107,CVCL_0194,
+CaCo-2,Caco2; Caco-2/ATCC; Caco-II,Epithelial cell,Colorectal adenocarcinoma,Homo sapiens (human),Large intestine; Colon,Epithelial-like,htb-37,CVCL_0025,
+CAK-1,CAKI-1; CaKi-1; caki-1,,Clear cell carcinoma,Homo sapiens (human),Kidney,Epithelial,htb-46,CVCL_0234,
+CCO,CCO/BB; Channel Catfish Ovary,,, Ameiurus nebulosus (brown bullhead),,,,CVCL_4142,Problematic cell line; contaminated. Originally thought to originate from the ovary of a juvenile channel catfish (Ictalurus punctatus) but shown to be from brown bullhead (Ameiurus nebulosus).
+CCRF-CEM,CCRF/CEM; CCRFCEM; CCRF.CEM; CEM-CCRF (CAMR); CCRF/CEM/0; CEM/0; CEM-0; CCRF-CEM/S; GM03671; GM03671C,T lymphoblast,Acute lymphoblastic leukemia,Homo sapiens (human),Peripheral blood,Lymphoblast,ccl-119,CVCL_0207,
+Chang,Chang liver; Chang Liver (HeLa derivative); Chang Cells; Chang; CHL,,Cervical adenocarcinoma,Homo sapiens (human),Uterus; Cervix,Epithelial-like,ccl-13,CVCL_0238,Problematic cell line; contaminated; shown to be a HeLa derivative; originally thought to originate from normal hepatic cells obtained from a liver biopsy of an adult human.
+CHO-K1,Chinese hamster Ovary-K1; CHOK1; CHO cell clone K1; GM15452,,,Cricetulus griseus (Chinese hamster),Ovary,Epithelial-like,ccl-61,CVCL_0214,
+COLO 205,Co 205; Colorado 205,,Colorectal adenocarcinoma (Dukes' type D),Homo sapiens (human),Large intestine; Colon,Epithelial,ccl-222,CVCL_0218,
+Colo320HSR,COLO 320HSR; COLO 320 HSR; COLO-HSR; Colorado 320 Homogeneously Staining Regions,,Colorectal adenocarcinoma (Dukes' type C),Homo sapiens (human),Large intestine; Colon,Rounded and refractile cells,ccl-220.1,CVCL_0220,
+CV-1,Cv-1; CV 1; CV-1.K; CV1,,,Cercopithecus aethiops (green monkey),Kidney,Fibroblast,ccl-70,CVCL_0229,
+DLA,Dalton's lymphoma,,T-cell lymphoma,Mus musculus (mouse),Thymus,,,,Derived from a lymphoma in a DBA/2 mouse.
+DLD-1,DLD 1; DLD1; CoCL3,Epithelial cell,Colorectal adenocarcinoma (Dukes' type C),Homo sapiens (human),Large intestine; Colon,Epithelial,ccl-221,CVCL_0248,
+DU-145,DU 145; DU.145; Duke University 145,,Carcinoma,Homo sapiens (human),Prostate,Epithelial,htb-81,CVCL_0105,Isolated from the brain of a 69-year-old male with prostate cancer.
+Erythrocytes,,Erythrocyte,,Oryctolagus cuniculus (rabbit),Blood,,,,Erythrocytes from rabbit blood samples.
+EA.hy926,EAHY-926; EA.Hy926; Eahy926,Somatic cell hybrid,,Homo sapiens (human),Umbilical vein; Vascular endothelium,Endothelial,crl-2922,CVCL_3901,
+Ehrlich-Lettre ascites strain E,Ehrlich-Lettre; Ehrlich Lettre; E-La; EAT; EAT strain E; Ehrlich ascites; Ehrlich; EAC; ELA,,Carcinoma,Mus musculus (mouse),Peritoneum; Ascites,Fusiform,,CVCL_3873,
+EKVX,,,Adenocarcinoma,Homo sapiens (human),Lung ,,,CVCL_1195,
+FaDu,"	FaDU; FADU",,Squamous cell carcinoma,Homo sapiens (human),Pharynx,Epithelial,htb-43,CVCL_1218,
+FHC,Fetal Human Colon,Epithelial cell,,Homo sapiens (human),Fetal large intestine; Colon,Epithelial,crl-1831,CVCL_3688,
+Fibro,,Fibroblast,,Homo sapiens (human),Skin,Fibroblast,,,Derived from human skin fibroblasts. Probably the following cell line: https://www.atcc.org/proDucts/pcs-201-018. Mentioned in 10.1016/j.ijpharm.2021.121262.
+FL,,,Cervical adenocarcinoma,Homo sapiens (human),Uterus; Cervix,Epithelial-like,,CVCL_1905,Problematic cell line; contaminated; shown to be a HeLa derivative (PubMed=1246601; PubMed=20143388); originally thought to originate from a normal amnion.
+GES-1,"	GES1",Epithelial cell,,Homo sapiens (human),Fetal stomach; Epithelium,Epithelial,,CVCL_EQ22,
+GF,"	Grunt Fin; Grunt Fin (GF)",Fibroblast,,Haemulon sciurus (bluestriped grunt),Fin tissue,Fibroblast,,CVCL_8875,
+H1299,NCI-H1299;  H-1299; NCIH1299,,Non-small cell lung carcinoma,Homo sapiens (human),Lung,Epithelial,crl-5803,CVCL_0060,
+H661,H-661; NCIH661; NCI-H661,,Non-small cell lung carcinoma,Homo sapiens (human),Lung,Epithelial,htb-183,CVCL_1577,
+HaCat,HaCaT; HaCAT; HACAT; Hacat,Keratinocyte,,Homo sapiens (human),Skin; Epidermis,Keratinocyte,,CVCL_0038,
+HCC1937,HCC-1937; HCC/1937; Hamon Cancer Center 1937,Epithelial cell,"Ductal carcinoma (TNM Stage IIB, grade 3)",Homo sapiens (human),Breast; Mammary gland; Duct,Epithelial,crl-2336,CVCL_0290,
+HCC-2998,HCC2998; HCC 2998; Hamon Cancer Center 2998; HCC.2998,Epithelial cell,Colon adenocarcinoma,Homo sapiens (human),Colon,Epithelial,,CVCL_1266,
+HCE,,Epithelial cell,,Homo sapiens (human),Cornea,Epithelial,,,Derived from primary cultures of human corneal epithelial cells. Possibly HCE-2 cell line (as described in 10.1002/chem.201704924).
+HCT-116,HCT 116; HCT.116; HCT116wt; CoCL2,,Colorectal carcinoma,Homo sapiens (human),Large intestine; Colon,Epithelial,ccl-247,CVCL_0291,
+HCT-15,HCT.15; HCT15,,Colorectal adenocarcinoma (Dukes' type C),Homo sapiens (human),Large intestine; Colon,Epithelial,ccl-225,CVCL_0292,
+HEK293,HEK;293; 293 Ad5; Graham 293; Graham-293; Human Embryonic Kidney 293,,,Homo sapiens (human),Embryo; Kidney,Epithelial,crl-1573,CVCL_0045,
+HEK293T,293T; Human Embryonic Kidney 293T; 293tsA1609neo,,,Homo sapiens (human),Embryo; Kidney,Epithelial,crl-3216,CVCL_0063,
+HeLa,He-La; HeLa-CCL2; Henrietta Lacks cells; Helacyton gartleri,Epithelial cell,Cervical adenocarcinoma,Homo sapiens (human),Uterus; Cervix,Epithelial,crm-ccl-2,CVCL_0030,
+HELF,Human embryonic lung fibroblast,Fibroblast,,Homo sapiens (human),Embryo; Lung,Fibroblast,,,Derived from normal human embryonic lung tissue (as described in 10.1111/cbdd.12612).
+Hep-2,HEp-2; HEP-2; Hep2 (HeLa derivative); HEp-2/HeLa; Hep 2; Hep2; HEp2; HEP2; H.Ep.-2; H.Ep. #2; H.Ep. No. 2; Hep II; Human Epidermoid carcinoma #2; Human Epithelioma-2,,Cervical adenocarcinoma,Homo sapiens (human),Uterus; Cervix,Epithelial-like,ccl-23,CVCL_1906,Problematic cell line; contaminated; shown to be a HeLa derivative; originally thought to originate from a 56 year old male patient with a laryngeal carcinoma.
+Hep3B,Hep 3B2.1-7; Hep 3B2_1-7; HEP3B217; Hep 3B2; HEP-3B2; HEP3B2; Hep-3B; HEP-3B; Hep 3B;  HEP3B,,Hepatocellular carcinoma,Homo sapiens (human),Liver,Epithelial,hb-8064,CVCL_0326,
+HepG2,HEP G2; HepG2; HEPG2,,Hepatocellular carcinoma,Homo sapiens (human),Liver,Epithelial-like,hb-8065,CVCL_0027,
+HFF-1,"	HFF1",Fibroblast,,Homo sapiens (human),Skin; Foreskin,Fibroblast,scrc-1041,CVCL_3285,
+HL60,HL-60; HL.60 HL60; Human Leukemia-60,Promyeloblast,Acute promyelocytic leukemia,Homo sapiens (human),Peripheral blood,Lymphoblast-like,ccl-240,CVCL_0002,
+HL-60 (TB),HL-60 (TB); HL-60-TB; HL-60TB; HL-60 TB,Promyeloblast,Acute promyelocytic leukemia,Homo sapiens (human),Peripheral blood,Lymphoblast-like,,CVCL_A794,
+HOP-62,HOP 62; HOP.62; Hopkins-62,Epithelial cell,Lung adenocarcinoma,Homo sapiens (human),Lung ,Epithelial-like,,CVCL_1285,
+HOP-92,HOP 92; HOP.92; Hopkins-92,Epithelial cell, Lung non-small cell carcinoma,Homo sapiens (human),Lung ,Epithelial-like,,CVCL_1286,
+HS 578T,"Hs 578T; HS0578T; 578T; HS578; Hs578; Homo sapiens No. 578, tumor cells",Epithelial cell,Carcinoma,Homo sapiens (human),Breast; Mammary gland,Epithelial,htb-126,CVCL_0332,
+Hs27,Hs-27; Hs 27; Hs.27; Hs27F,Fibroblast,,Homo sapiens (human),Skin; Foreskin,Fibroblast,crl-1634,CVCL_0335,
+Hs578Bst,"Hs 578Bst; HS578BST; Hs-578Bst; Hs 578.Bst; Homo sapiens No. 578, breast cells",Myoepithelial cell,,Homo sapiens (human),Breast; Mammary gland,Fibroblast,htb-125,CVCL_0807,
+HT29,HT-29,,Colorectal adenocarcinoma,Homo sapiens (human),Colon,Epithelial,htb-38,CVCL_A8EZ,
+HDFa,Human dermal fibroblasts ATCC,Fibroblast,,Homo sapiens (human),Skin,Spindle-shaped; bipolar and refractile cells,pcs-201-012,,
+RBC,Human red blood cells,Red blood cell,,Homo sapiens (human),Blood,Biconcave discs,,,Derived from human blood samples. Red blood cells are not typically considered cell lines in the same sense as immortalized or cultured cell lines. They are primary cells obtained directly from blood donations.
+HUVEC,HUV-EC-C; Primary Umbilical Vein Endothelial Cells,Endothelial cell,,Homo sapiens (human),Umbilical cord,Cobblestone appearance with large dark nuclei,pcs-100-010,,
+IEC- 18,IEC 18; IEC18; Intestinal Epithelioid Cell line No. 18,Epithelial cell,,Rattus norvegicus (rat),Small intestine; Ileum,Epithelial,crl-1589,CVCL_0342,
+IGROV1,IGR.OV1; IGROV; OV1/P; OV1-P; IGROV-1,Epithelial cell,Ovarian endometrioid adenocarcinoma,Homo sapiens (human),Ovary,,,CVCL_1304,
+IPC-81,LT12; LT-12,,Acute myelocytic leukemia,Rattus norvegicus (rat),Bone marrow,,,CVCL_D271,
+J774.1,"	J-774.1; J774-1",Macrophage,Reticulum cell sarcoma,Mus musculus (mouse),Ascites,Macrophage,,CVCL_4770,
+J774A.1,J-774A.1; J774.A1; J774 A1; J774A.1; J 774A.1; J774 A.1;  J774A1,Monocyte; macrophage,Reticulum cell sarcoma,Mus musculus (mouse),Ascites,Macrophage,tib-67,CVCL_0358,
+Jurkat,JM; JM-Jurkat; Jurkat-FHCRC; FHCRC-11; FHCRC subclone 11; FCCH1024,T lymphoblast,Acute T cell leukemia,Homo sapiens (human),Peripheral blood,Lymphoblast,,CVCL_0065,
+K562,K-562; K.562; K 562; KO; GM05372; GM05372E,,Chronic myelogenous leukemia,Homo sapiens (human),Bone marrow,Lymphoblast,,CVCL_0004,
+KM12,KM-12; KM.12,Epithelial cell,Colon carcinoma,Homo sapiens (human),Colon,Epithelial,,CVCL_1331,
+L02,L-02; L02; LO2; HL-7702; HL7702; Liver-02; Human Liver-7702,,Cervical adenocarcinoma,Homo sapiens (human),Uterus; Cervix,Epithelial-like,,CVCL_6926,Problematic cell line; contaminated; shown to be a HeLa derivative (PubMed=26116706); originally thought to originate from a normal fetal liver.
+L-132,L132 (HeLa derivative); CCL-5 (ATCC),,Cervical adenocarcinoma,Homo sapiens (human),Uterus; Cervix,Epithelial-like,ccl-5,CVCL_1908,Problematic cell line; contaminated; shown to be a HeLa derivative. Originally though to be derived from a human embryonic lung.
+L929,"NCTC 929; NCTC-929; NCTC929; NCTC-929L; L cell; L cells; L-cell; L-cells; L cell line; L; Strain L-929; L-929; L 929; 	NCTC clone 929; L929(NCTC); Clone 929; Earles's cells; Earle's cell",,,Mus musculus (mouse),Subcutaneous connective tissue; Adipose; Areolar,Fibroblast,ccl-1,CVCL_0462,
+LNCaP,"	LNCAP; LNCap; Ln-Cap; Lymph Node Carcinoma of the prostate",,Prostate carcinoma,Homo sapiens (human),Prostate; Left supraclavicular lymph node,Epithelial,,CVCL_0395,
+LoVo,,,"Colorectal adenocarcinoma (Dukes' type C, grade IV)",Homo sapiens (human),Large intestine; Colon,Epithelial,ccl-229,CVCL_0399,
+LOX IMVI,LOX/IMVI; LOX,,Amelanotic melanoma,Homo sapiens (human),Skin; Metastatic; Axillary lymph node ,,,CVCL_1381,
+M14,M14-MEL; UCLA-SO-M14;  UCLA-SO-14; Melanoma 14,,Amelanotic melanoma,Homo sapiens (human),"Skin; Metastatic; Right buttock, hypodermis",,,CVCL_1395,
+M-HeLa,"HeLa-M, HelaM",,Cervical adenocarcinoma,Homo sapiens (human),Uterus; Cervix,Epithelial-like,,CVCL_R965,
+MALME-3M,MALME3M; Malme-3 Monolayer; Malme-3M,Fibroblast,Malignant melanoma,Homo sapiens (human),Skin,Mixed,htb-64,CVCL_1438,
+MB49,MB-49,,Bladder transitional cell carcinoma,Mus musculus (mouse),Urinary bladder,Epithelial-like,,CVCL_7076,
+MC3T3-E1,Mc3T3-E1; MC3T3E1; MC-3T3-E1; MC 3T3-E1,Preosteoblast,,Mus musculus (mouse),Bone; Calvaria,Fibroblast,,CVCL_0409,
+MCF-10A,"	MCF 10A; MCF.10A; MCF10A; MCF10-A; MCF10a; MCF-10 Attached; Michigan Cancer Foundation-10A",Epithelial cell,Fibrocystic disease,Homo sapiens (human),Breast; Mammary gland,Epithelial,crl-10317,CVCL_0598,
+MCF-7,Michigan Cancer Foundation-7;  ssMCF7; MCF7/WT; MCF7-CTRL; IBMF-7; HTB22,Epithelial cell,Adenocarcinoma,Homo sapiens (human),Breast; Mammary gland,Epithelial,htb-22,CVCL_0031,
+MDA-MB-231,HTB-26 (ATCC); MDA-MB-231/ATCC; MDAMB231; MDA-231; MDA-231P; MDA231; MDA231-BRE; MB231; MD Anderson-Metastatic Breast-231,Epithelial cell,Adenocarcinoma,Homo sapiens (human),Breast; Mammary gland,Epithelial,,CVCL_0062,
+MDA-MB-435,MDA435; MD Anderson-Metastatic Breast-435,,Amelanotic melanoma,Homo sapiens (human),"Skin; Metastatic; Right buttock, hypodermis",,,CVCL_0417,Problematic cell line; contaminated; shown to be a M14 derivative. Originally this cell line was derived at M.D. Anderson in 1976 from a Pleural effusion from a 31-year old woman with a history of breast cancer.
+MDA-MB-468,MDA468; MB468; MD Anderson-Metastatic Breast-468,,Adenocarcinoma ,Homo sapiens (human),Breast; Mammary gland,Epithelial,htb-132,CVCL_0419,
+MG63,"M-G63; 	MG-63",,Osteosarcoma,Homo sapiens (human),Bone,Fibroblast,crl-1427,CVCL_0426,
+MIA PaCa-2,CRL-1420; PaCa2; MiaPaCa,Epithelial cell,Carcinoma,Homo sapiens (human),Pancreas,Attached epithelial with floating rounded cells,crm-crl-1420,CVCL_0428,
+MOLT-4 ,Molt-4; MOLT 4; GM02219; GM02219C; GM2219C; GM02219D,T lymphoblast,Acute lymphoblastic leukemia,Homo sapiens (human),Peripheral blood,Lymphoblast,crl-1582,CVCL_0013,
+MRC-5,MRCV; MRC-V; Medical Research Council cell strain-5,Fibroblast,,Homo sapiens (human),Lung,Fibroblast,ccl-171,CVCL_0440,
+NCI/ADR-RES,NCI-ADR-RES; MCF-7/ADR; MCF-7/ADR-RES; OVCAR-8/ADR; OVCAR8/ADR,,High grade ovarian serous adenocarcinoma,Homo sapiens (human),"	Ovary",Epithelial,,CVCL_1452,"An adriamycin-resistant cell line established by Batist, et al., in 1986, intended to be derived from the breast cancer cell line MCF-7. Recent single nucleotide polymorphism array analysis confirmed that the NCI/ADR-RES cell line is derived from the ovarian cancer cell line OVCAR-8"
+NCI-H226 ,H226; NCI.H226; HUT-226,,Squamous cell carcinoma; Mesothelioma,Homo sapiens (human),Lung ,Epithelial,crl-5826,CVCL_1544,
+NCI-H23 ,H23; NCI.H23; NCIH23,,Adenocarcinoma; Non-small cell lung carcinoma,Homo sapiens (human),Lung ,Epithelial,crl-5800,CVCL_1547,
+NCI-H322M ,NCI.H322M; H322M,,Lung adenocarcinoma,Homo sapiens (human),Lung ,Epithelial,,CVCL_1557,
+NCI-H460 ,H-460; NCIH460; NCI-HUT-460,,Carcinoma; Non-small cell lung carcinoma,Homo sapiens (human),Lung; pleural effusion,Epithelial,htb-177,CVCL_0459,
+NCI-H522 ,H522; H-522; NCI-522,,Adenocarcinoma; Non-small cell lung carcinoma (stage 2),Homo sapiens (human),Lung ,Epithelial,crl-5810,CVCL_1567,
+NCTC 2544,NCTC2544; NCTC strain 2544,,Cervical adenocarcinoma,Homo sapiens (human),Uterus; Cervix,Epithelial-like,,CVCL_0461,Problematic cell line; contaminated; shown to be a HeLa derivative; originally thought to be a normal skin epithelium cell line.
+NHDF,Normal human dermal fibroblast cell line,,,Homo sapiens (human),Skin,,,,Derived from normal human dermal tissue.
+NIH/3T3,3T3NIH; 3T3-Swiss; Swiss-3T3; ,Fibroblast,,Mus musculus (mouse),Embryo,Fibroblast,crl-1658,CVCL_0594,
+OVCAR-3,NIH:OVCAR-3,Epithelial cell,Adenocarcinoma,Homo sapiens (human),Ovary,Epithelial ,htb-161,CVCL_0465,
+OVCAR-4,OVCAR 4; NIH:OVCAR-4; NIH:OVCAR4; OVCAR.4; OVCAR4; Ovcar4,Epithelial cell,High grade ovarian serous adenocarcinoma,Homo sapiens (human),Ovary,Epithelial ,,CVCL_1627,
+OVCAR-5,OVCAR 5; NIH:OVCAR-5; OVCAR.5; OVCAR5; Ovcar5; OVCA5,Epithelial cell,High grade ovarian serous adenocarcinoma,Homo sapiens (human),Ovary,Epithelial ,,CVCL_1628,
+OVCAR-8,OVCAR 8; NIH:OVCAR-8; OVCAR8; Ovcar8; OVCAR.8; OVCA8,Epithelial cell,High grade ovarian serous adenocarcinoma,Homo sapiens (human),Ovary,Epithelial ,,CVCL_1629,
+PANC-1,PanC1; Panc1; PANC1; Panc-1-P,,Epithelioid carcinoma,Homo sapiens (human),Pancreas; Duct,Epithelial,,CVCL_0480,
+PBMC,Primary peripheral blood mononuclear cells,Mononuclear cell,,Homo sapiens (human),Blood,Spherical; variable after culturing,pcs-800-011,,
+PC12,PC-12; PC 12; PC12.1,,Adrenal gland pheochromocytoma,Rattus norvegicus (rat),Adrenal gland,Neuronal-like,crl-1721,CVCL_0481,
+PC3 ,PC-3; PC.3,,Adenocarcinoma (grade IV),Homo sapiens (human),Prostate,Epithelial,crl-1435,CVCL_0035,
+RKO,,,Carcinoma,Homo sapiens (human),Large intestine; Colon,Epithelial,crl-2577,CVCL_0504,
+RPMI-8226 ,RPMI 8226; 8226; RPMI 8226/S; RPMI-8226S; RPMI8226/S; 8226/S; Roswell Park Memorial Institute 8226; GM02132; GM2132; GM 2132; GM02132C; Simpson,B lymphocyte,Plasmacytoma,Homo sapiens (human),Peripheral blood,Lymphoblast,crm-ccl-155,CVCL_0014,
+RWPE-1,,Epithelial cell,,Homo sapiens (human),Prostate,Epithelial,crl-3607,CVCL_3791,
+RXF 393 ,RXF393L; RXF 393NL,Epithelial cell,Renal cell carcinoma,Homo sapiens (human),Kidney,Epithelial,,CVCL_1673,
+SF,,Fibroblast,,Homo sapiens (human),Foreskin,Fibroblast,,,Information about this cell line was extarcted from 10.1002/cmdc.201500142.
+SF-268,SF268; SF.268; SF 268,,Astrocytoma,Homo sapiens (human),Brain; Right parietal lobe,,,CVCL_1689,SF268 cells were originally derived from a highly anaplastic astrocytoma. Problematic cell line: possibly misidentified. Presence of a Y chromosome in the cell line that was thought to be of female origin (STR profile).
+SF-295,SF.295; SF 295,,Glioblastoma,Homo sapiens (human),Brain; Left temporal lobe ,,,CVCL_1690,
+SF-539,SF-539 BT; SF.539; SF 539,,Gliosarcoma,Homo sapiens (human),Brain; Right temporo-parietal junction,,,CVCL_1691,
+Sf-9,Spodoptera frugiperda clone 9; Sf clone 9; IPLB-Sf-9AE; IPLB-SF-9AE; IPLB-SF-9; IPLB-Sf-9; IPLB-Sf9,,,Spodoptera frugiperda (fall armyworm),Ovary,Epithelial,crl-1711,CVCL_0549,
+SH-SY5Y,SK-SH-SY5Y; SY5Y; SH-SY5Y Parental,,Neuroblastoma,Homo sapiens (human),Bone marrow,Epithelial,crl-2266,CVCL_0019,
+SKBR3,Sk-Br-3; SK BR 03; SK-BR-3,Epithelial cell,Adenocarcinoma ,Homo sapiens (human),Breast; Mammary gland,Epithelial,htb-30,CVCL_0033,
+SK-MEL-2,SK-ML2; SKml2; SK.MEL.2,,Malignant melanoma ,Homo sapiens (human),Skin,Polygonal,htb-68,CVCL_0069,
+SK-MEL-28,SK28; AU-Mel; P-36,Melanocyte,Malignant melanoma ,Homo sapiens (human),Skin,Polygonal,htb-72,CVCL_0526,
+SK-MEL-5,AA-Mel; SK.MEL.5,Melanocyte,Malignant melanoma ,Homo sapiens (human),Skin,Stellate,htb-70,CVCL_0527,
+SK-OV-3 ,SKOV-3; SKOV3; SKO3,,Adenocarcinoma,Homo sapiens (human),Ovary; ascites,Epithelial,htb-77,CVCL_0532,
+SMMC-7721,H7721; H-7721,,Cervical adenocarcinoma,Homo sapiens (human),Uterus; Cervix,Epithelial-like,,CVCL_0534,Problematic cell line; contaminated; shown to be a HeLa derivative; originally thought to originate from a hepatocellular carcinoma.
+SN12C ,SN-12C; SN12 C,,Renal cell carcinoma,Homo sapiens (human),Kidney,Epithelial,,CVCL_1705,
+SNB-19,Surgical Neurology Branch-19,,Astrocytoma,Homo sapiens (human),Brain; Parietal lobe,,,CVCL_0535, Problematic cell line: Contaminated. Shown to be a U-251MG derivative (PubMed=18304946; PubMed=20143388; PubMed=22570425). Originally thought to originate from a patient with a left parieto-occipital glioblastoma.
+SNB-75,Surgical Neurology Branch-75,,Glioblastoma,Homo sapiens (human),Brain,,,CVCL_1706,
+SR  ,SR-786; SR786,Lymphoblast,Large cell immunoblastic lymphoma,Homo sapiens (human),Pleural effusion,Lymphoblast,crl-2262,CVCL_1711,
+SW480,SW-480; SW 480; SW480E,,Colorectal adenocarcinoma (Dukes' type B),Homo sapiens (human),Large intestine; Colon,Epithelial,ccl-228,CVCL_0546,
+SW-620 ,SW620; SW 620; SW.620,,Colorectal adenocarcinoma (Dukes' type C),Homo sapiens (human),Large intestine; Colon,Epithelial,ccl-227,CVCL_0547,
+T-47D,T47D:A; T47D; HTB133,Epithelial cell,Ductal carcinoma,Homo sapiens (human),Breast; Mammary gland,Epithelial,htb-133,CVCL_0553,
+TK-10 ,TK.10; TK 10; TK10,,Clear cell renal cell carcinoma,Homo sapiens (human),Kidney,Epithelial,,CVCL_1773,
+U251,U-251 MG; U-251-MG; U-251_MG; U251-MG; U251MG; U-251; U251; U251n; U251N; 251 MG; 251MG; 251 MG(6),, Astrocytoma,Homo sapiens (human),"Brain, Parietal lobe",,,CVCL_0021,
+U937,U-937; U 937,,Histiocytic lymphoma,Homo sapiens (human),Pleural effusion,Monocyte,,CVCL_0007,
+UACC-257,University of Arizona Cell Culture-257,,Melanoma,Homo sapiens (human),Skin,,,CVCL_1779,
+UACC-62,University of Arizona Cell Culture-62,,Melanoma,Homo sapiens (human),Skin,,,CVCL_1780,
+UCI 101,"UCI-101; UCI101; University of California, Irvine 101",, Ovarian serous adenocarcinoma,Homo sapiens (human),Ovary; Metastatic; Ascites,Epithelial,,CVCL_5380,
+UCI 107," UCI-107; UCI107; University of California, Irvine 107",, Ovarian serous adenocarcinoma,Homo sapiens (human),Ovary,Epithelial,,CVCL_5381,
+UO-31 ,UO.31; UO31; U031,, Renal cell carcinoma,Homo sapiens (human),Kidney,Epithelial,,CVCL_1911,
+V79,"	V-79; V 79; Strain V; V79-1; GM00215; GM-215; GM00215A; GM16136; UCW 100",Fibroblast,,Cricetulus griseus (Chinese hamster),Lung,Fibroblast,,CVCL_2234,
+Vero,VeroCCL81; Vero 81; Vero-81; Verda reno,Epithelial cell,, Chlorocebus sabaeus (green monkey),Kidney,Epithelial,ccl-81,CVCL_0059,The species is ambigous: Cercopithecus aethiops or  Chlorocebus sabaeus.
+Vero E6,"	 VeroC1008; VERO C1008 (E6); Vero 76 clone E6; Vero E-6; ",Epithelial cell,, Chlorocebus sabaeus (green monkey),Kidney,Epithelial,crl-1586,CVCL_0574,The species is ambigous: Cercopithecus aethiops or  Chlorocebus sabaeus.
+WI-38,Wistar Institute-38; AG06814E; AG06814G; AG06814H; AG06814-J; AG06814J; AG06814-M; AG06814-N,Fibroblast,,Homo sapiens (human),Lung,Fibroblast,ccl-75,CVCL_0579,
+WiDr,WiDr/S; WiDr-TC; WiDrTC; LED-WiDr; Led-WiDr,,Colorectal adenocarcinoma,Homo sapiens (human),Colon,Epithelial,ccl-218,CVCL_2760,Problematic cell line: contaminated. Shown to be a HT-29 derivative (PubMed=3472642; PubMed=20143388). Originally thought to originate from afemale patient with a primary adenocarcinoma of the rectosigmoid Colon.
