@@ -4,7 +4,7 @@ import os
 from umap import UMAP
 from sklearn.preprocessing import StandardScaler
 
-dataset_dir = "ct-model/cyto_datasets_2025-04-01/processed_datasets"
+dataset_dir = "./processed_datasets"
 
 def load_chemberta_embeddings():
     embeddings_df = pd.read_csv(os.path.join(dataset_dir, "chemberta_embeddings.csv"))
@@ -63,16 +63,20 @@ def filter_embeddings(df, corr_threshold=0.9, verbose=False):
     unstable_cols = abs_max_vals[abs_max_vals > 1e6].index
     df = df.drop(columns=unstable_cols)
 
-    # Step 4: Drop highly correlated columns
+    # Step 4: Remove columns with low variance
+    low_variance_cols = df.var()[df.var() < 1e-6].index
+    df = df.drop(columns=low_variance_cols)
+
+    # Step 5: Drop highly correlated columns
     corr_matrix = df.corr().abs()
     upper = corr_matrix.where(np.triu(np.ones(corr_matrix.shape), k=1).astype(bool))
     to_drop = [col for col in upper.columns if any(upper[col] > corr_threshold)]
     df = df.drop(columns=to_drop)
 
-    # Step 5: Remove any remaining rows with inf/nan
+    # Step 6: Remove any remaining rows with inf/nan
     df = df.replace([np.inf, -np.inf], np.nan).dropna(axis=0)
 
-    # Step 6: Normalize to avoid scale dominance
+    # Step 7: Normalize to avoid scale dominance
     df = pd.DataFrame(StandardScaler().fit_transform(df), columns=df.columns)
 
     if verbose:
@@ -110,39 +114,36 @@ def generate_dataset():
     print("Compiling uncompressed dataset...")
     uncompressed_dataset = pd.concat([chemberta_embeddings, ecfp_fingerprints, maccs_descriptors, molecular_descriptors, graph_embeddings], axis=1)
 
-
-    compressed_chemberta = compress_embeddings(chemberta_embeddings, n_components=64, embed_name='chemberta')
+    compressed_chemberta = compress_embeddings(chemberta_embeddings, n_components=32, embed_name='chemberta')
     print("chemberta embeddings done\n")
-    compressed_ecfp = compress_embeddings(ecfp_fingerprints, n_components=16, embed_name='ecfp')
+    compressed_ecfp = compress_embeddings(ecfp_fingerprints, n_components=32, embed_name='ecfp')
     print("ecfp fingerprints done\n")
-    compressed_maccs = compress_embeddings(maccs_descriptors, n_components=64, embed_name='maccs')
+    compressed_maccs = compress_embeddings(maccs_descriptors, n_components=32, embed_name='maccs')
     print("maccs descriptors done\n")
-    compressed_molecular = compress_embeddings(molecular_descriptors, n_components=64, embed_name='molecular')
+    compressed_molecular = compress_embeddings(molecular_descriptors, n_components=32, embed_name='molecular')
     print("molecular descriptors done\n")
-    compressed_graph = compress_embeddings(graph_embeddings, n_components=16, embed_name='graph')
+    compressed_graph = compress_embeddings(graph_embeddings, n_components=32, embed_name='graph')
     print("graph embeddings done\n")
 
-    dataset = pd.concat([compressed_chemberta, compressed_ecfp, compressed_maccs, compressed_molecular, compressed_graph], axis=1)
-
+    dataset_full = pd.concat([compressed_chemberta, compressed_ecfp, compressed_maccs, compressed_molecular, compressed_graph], axis=1)
     # Add cytotoxicity values and SMILES strings
     cytotoxicity_data = pd.read_csv(os.path.join(dataset_dir, "cytotoxicity_data.csv"))
 
-    # cytotoxicity value saved as target variable
-    dataset['target'] = cytotoxicity_data['CC50/IC50/EC50, mM']
+    dataset_full['target'] = cytotoxicity_data['CC50/IC50/EC50, mM']
+    dataset_full['Canonical SMILES'] = cytotoxicity_data['Canonical SMILES']
+    dataset_full['filename'] = cytotoxicity_data['filename']
+
     uncompressed_dataset['target'] = cytotoxicity_data['CC50/IC50/EC50, mM']
-    dataset['Canonical SMILES'] = cytotoxicity_data['Canonical SMILES']
     uncompressed_dataset['Canonical SMILES'] = cytotoxicity_data['Canonical SMILES']
-    dataset['filename'] = cytotoxicity_data['filename']
     uncompressed_dataset['filename'] = cytotoxicity_data['filename']
 
-    return dataset, uncompressed_dataset
+    # save all the datasets
+    dataset_full.to_csv(os.path.join(dataset_dir, "final_dataset.csv"), index=False)
+    uncompressed_dataset.to_csv(os.path.join(dataset_dir, "uncompressed_dataset.csv"), index=False)
 
 def main():
-    dataset, uncompressed_dataset = generate_dataset()
-    # Save the final dataset
-    dataset.to_csv(os.path.join(dataset_dir, "final_dataset.csv"), index=False)
-    uncompressed_dataset.to_csv(os.path.join(dataset_dir, "uncompressed_dataset.csv"), index=False)
+    generate_dataset()
 
 if __name__ == "__main__":
     main()
-    print("Dataset generated and saved to processed_datasets/final_dataset.csv")
+    print("Datasets generated and saved to processed_datasets")
