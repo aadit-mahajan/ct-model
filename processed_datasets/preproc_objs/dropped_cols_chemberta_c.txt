@@ -1,0 +1,9 @@
+ChemBERTa_cls_1
+ChemBERTa_mean_479
+ChemBERTa_mean_584
+ChemBERTa_mean_509
+ChemBERTa_mean_89
+ChemBERTa_mean_256
+ChemBERTa_mean_1
+ChemBERTa_mean_415
+ChemBERTa_mean_549
